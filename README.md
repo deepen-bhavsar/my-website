@@ -15,3 +15,5 @@ hello unstable
 ## Getting started
 
 you can clone this website.
+
+#removed bot names
